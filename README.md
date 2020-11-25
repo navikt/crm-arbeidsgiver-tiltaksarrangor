@@ -9,8 +9,8 @@
 
 Pakken er avhengig av følgende pakker:
 
-* crm-platform-base(https://github.com/navikt/crm-platform-base)
-* crm-platform-access-control(https://github.com/navikt/crm-platform-access-control)
+* [crm-platform-base](https://github.com/navikt/crm-platform-base)
+* [crm-platform-access-control](https://github.com/navikt/crm-platform-access-control)
 
 
 ## Komme i gang
