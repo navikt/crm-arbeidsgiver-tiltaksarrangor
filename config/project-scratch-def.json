@@ -8,10 +8,7 @@
         "API",
         "LiveAgent",
         "PersonAccounts",
-        "ContactsToMultipleAccounts",
-        "Communities",
-        "CustomerCommunity",
-        "CustomerCommunityPlus",
+        "ContactsToMultipleAccounts"
     ],
     "country": "NO",
     "language": "en_US",
